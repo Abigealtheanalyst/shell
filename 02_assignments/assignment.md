@@ -35,8 +35,8 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Your answer here...
-
-
+1.Paper rings 2. 10, 3. meets, 4. and 5. lucky 6. the
+The lucky 10 meets the paper rings
 
 
 ```
